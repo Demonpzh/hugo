@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "彭智焕的blogs"
-theme = "ananke"
+theme = "hugo-PaperMod-master"
